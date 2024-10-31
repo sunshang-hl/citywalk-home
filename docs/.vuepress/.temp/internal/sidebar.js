@@ -1,0 +1,1 @@
+export const sidebar = {"/en/":{"/demo":{"items":["","foo","bar"],"prefix":"/en/notes/demo/"}},"/":{"/demo":{"items":["","foo","bar"],"prefix":"/notes/demo/"}},"__auto__":{},"__home__":{}}

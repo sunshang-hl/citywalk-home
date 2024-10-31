@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"title\":\"home\",\"lang\":\"zh-CN\",\"description\":\"整个网站的首页，放置全国公园景点博物馆图书费的信息\"},\"/en/\":{\"title\":\"home\",\"lang\":\"en-US\",\"description\":\"整个网站的首页，放置全国公园景点博物馆图书费的信息\"}}}")
